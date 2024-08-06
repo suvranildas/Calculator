@@ -2,4 +2,4 @@ I am Suvranil Das student of BCA department at Maulana Abul Kalam Azad Universit
 CODSOFT INTERNSHIP in Python Programming 
 BATCH : JULY BATCH A65 
 This is my second task of Python Proramming 
-CODSOFT No.2 : Calculator
+CODSOFT Task No.2 : Calculator
